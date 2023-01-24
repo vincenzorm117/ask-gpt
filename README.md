@@ -1,2 +1,2 @@
-# hey-gpt
-API to replace Siri
+# ask-gpt
+CLI to send requests to GPT
